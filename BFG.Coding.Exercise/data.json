@@ -1,0 +1,14 @@
+{
+  "books": [
+    {
+      "title": "a title",
+      "author": "an author"
+    }
+  ],
+  "movies": [
+    {
+      "title": "a title",
+      "director":  "a director"
+    }
+  ]
+}
